@@ -51,7 +51,7 @@ Using ADC peripheral, the PIC16F15244 microcontroller sense the input voltages, 
 
 - MPLAB® X IDE [6.0.0 or newer](http://www.microchip.com/mplab/mplab-x-ide)
 - MPLAB® XC8 compiler [2.36.0 or newer](http://www.microchip.com/mplab/compilers) 
-- Microchip PIC16F1xxxx Series Device Support [1.9.163 or newer pack](https://packs.download.microchip.com/)
+- Microchip PIC16F1xxxx_DFP Device Support [1.9.163 or newer pack](https://packs.download.microchip.com/)
 - MPLAB® Code Configurator (MCC) [5.1.1 or newer](https://www.microchip.com/mplab/mplab-code-configurator)
 - ADC MCC Melody driver 3.0.6
 - TMR0 MCC Melody driver 4.0.8
