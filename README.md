@@ -12,9 +12,9 @@ This code example highlights the DC power measurement technique using the PIC16F
 
 ## Related Documentation
 
-- [PIC16F15244 Product Family Page](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/pic-mcus/pic16f15244)
-- [PIC16F15244 Family Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=pic16f15244&type=&language=&sort=)
-- [PIC16F15244 Product Family Overview Video](https://www.youtube.com/watch?v=nHLv3Th-o-s)
+- [PIC16F152xx Product Family Page](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/pic-mcus/pic16f15244)
+- [PIC16F152xx Family Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=pic16f15244&type=&language=&sort=)
+- [PIC16F152xx Product Family Overview Video](https://www.youtube.com/watch?v=nHLv3Th-o-s)
 - [PIC16F15244 Microcontroller Product Page](https://www.microchip.com/wwwproducts/en/PIC16F15244)
 
 ## Demo Description 

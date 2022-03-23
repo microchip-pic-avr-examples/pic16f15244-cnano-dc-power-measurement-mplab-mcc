@@ -37,8 +37,8 @@
             }
         },
         "author": "Srinivasa K R",
-        "peripherals": [ADC,TMR],
-        "keywords": [DC,Power Measurement,],
+        "peripherals": ["ADC","TMR"],
+        "keywords": ["DC","Power Measurement"],
         "additionalData": {
             "longDescription": {
                 "metaDataVersion": "1.0.0",
