@@ -5,7 +5,7 @@
 
 DC power supply is widely used in numerous applications that are operating with lower supply voltage. A few of these applications require monitoring the power consumed by the load connected to its electronic circuitry. The Analog-to-Digital Convertor (ADC) of a microcontroller is useful to measure voltage and current consumed by the load. Thereby it is possible to compute the total power consumed by the load.
 
-The PIC16F15244 family microcontrollers offers 10-bit ADC and Enhanced Universal Synchronous Asynchronous Receiver Transmitter (EUSART) which are the common peripherals used in various embedded applications. The ADC peripheral is used for converting analog signal in to digital, and EUSART peripheral is used for communication with the external integrated circuits. Additionally, the EUSART interface can communicate with terminal application on a personal computer.
+The PIC16F152xx family microcontrollers offers 10-bit ADC and Enhanced Universal Synchronous Asynchronous Receiver Transmitter (EUSART) which are the common peripherals used in various embedded applications. The ADC peripheral is used for converting analog signal in to digital, and EUSART peripheral is used for communication with the external integrated circuits. Additionally, the EUSART interface can communicate with terminal application on a personal computer.
 
 This code example highlights the DC power measurement technique using the PIC16F15244 microcontroller. It demonstrates how to use ADC to measure DC voltage, current and power consumed by the connected load in an electronic circuitry, and then transmit the measured data to terminal window of data visualizer tool through EDBG module (UART-USB bridge).
 
