@@ -5,7 +5,7 @@
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.pic16f15244-cnano-dc-power-measurement-mplab-mcc",
         "version": " ",
-        "displayName": "",
+        "displayName": "DC Power Measurement using PIC16F15244 Microcontroller",
         "projectName": "pic16f15244-cnano-dc-power-measurement-mplab-mcc",
         "shortDescription": "This example demonstrates how to measure DC voltage current and power in an electrical circuit using the built in ADC peripheral of the PIC microcontroller Compatible PIC16F152xx family of MCUs are PIC16F15214 PIC16F15223 PIC16F15254 PIC16F15276",
         "ide": {
